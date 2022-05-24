@@ -1,2 +1,2 @@
-# Calculadora
-Calculadora desenvolvida com HTML5, CSS3 e JavaScript.
+# Calculator
+Calculator made with HTML5, CSS3 and JavaScript.
